@@ -1,1 +1,1 @@
-postlan inheritance.cpp is the main file to run.
+postlabinheritance.cpp is the main file to run.
