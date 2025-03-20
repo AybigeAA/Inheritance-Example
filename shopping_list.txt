@@ -1,0 +1,3 @@
+Food,asdasd,10,20
+Electronics,dfsdfs,10,12,,asasd
+Clothing,fsdfds,13,15,s
